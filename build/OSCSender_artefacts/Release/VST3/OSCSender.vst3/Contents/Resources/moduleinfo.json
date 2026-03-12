@@ -1,0 +1,48 @@
+{
+  "Name": "OSCSender",
+  "Version": "0.0.1",
+  "Factory Info": {
+    "Vendor": "Shinh",
+    "URL": "",
+    "E-Mail": "",
+    "Flags": {
+      "Unicode": true,
+      "Classes Discardable": false,
+      "Component Non Discardable": false,
+    },
+  },
+  "Classes": [
+    {
+      "CID": "ABCDEF019182FAEB536869684F534373",
+      "Category": "Audio Module Class",
+      "Name": "OSCSender",
+      "Vendor": "Shinh",
+      "Version": "0.0.1",
+      "SDKVersion": "VST 3.8.0",
+      "Sub Categories": [
+        "Instrument",
+        "Synth",
+      ],
+      "Class Flags": 2,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+    {
+      "CID": "ABCDEF011234ABCD536869684F534373",
+      "Category": "Component Controller Class",
+      "Name": "OSCSender",
+      "Vendor": "Shinh",
+      "Version": "0.0.1",
+      "SDKVersion": "VST 3.8.0",
+      "Sub Categories": [
+        "Instrument",
+        "Synth",
+      ],
+      "Class Flags": 2,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+  ],
+}
